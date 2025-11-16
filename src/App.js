@@ -458,7 +458,8 @@ const serviceOptions = [
             </form>
           </motion.div>
         )}
-      </AnimatePresence>
+        </AnimatePresence>
     </div>
   </div>
-);
+  );
+}
